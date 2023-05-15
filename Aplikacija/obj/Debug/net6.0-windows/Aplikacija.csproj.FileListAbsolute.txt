@@ -1,0 +1,17 @@
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\bin\Debug\net6.0-windows\Aplikacija.exe
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\bin\Debug\net6.0-windows\Aplikacija.deps.json
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\bin\Debug\net6.0-windows\Aplikacija.runtimeconfig.json
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\bin\Debug\net6.0-windows\Aplikacija.dll
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\bin\Debug\net6.0-windows\ref\Aplikacija.dll
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\bin\Debug\net6.0-windows\Aplikacija.pdb
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\Aplikacija.csproj.AssemblyReference.cache
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\Aplikacija.Form1.resources
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\Aplikacija.csproj.GenerateResource.cache
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\Aplikacija.GeneratedMSBuildEditorConfig.editorconfig
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\Aplikacija.AssemblyInfoInputs.cache
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\Aplikacija.AssemblyInfo.cs
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\Aplikacija.csproj.CoreCompileInputs.cache
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\Aplikacija.dll
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\ref\Aplikacija.dll
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\Aplikacija.pdb
+D:\bskracic\2RP2\NajboljaAplikacija\Aplikacija\obj\Debug\net6.0-windows\Aplikacija.genruntimeconfig.cache
