@@ -11,7 +11,7 @@ namespace Aplikacija
             => MessageBox.Show(DateTime.Now.ToString(), "TIME");
 
         private void TellTime()
-            => MessageBox.Show(DateTime.Now.ToLongDateString(), "TIME");
+            => MessageBox.Show(DateTime.Now.ToLongTimeString(), "TAAIME");
 
         private void button2_Click(object sender, EventArgs e)
             => TellTime();
