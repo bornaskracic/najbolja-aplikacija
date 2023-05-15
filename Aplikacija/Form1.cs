@@ -8,7 +8,7 @@ namespace Aplikacija
         }
 
         private void button1_Click(object sender, EventArgs e)
-            => MessageBox.Show(DateTime.Now.ToLongTimeString(), "TIME");
+            => MessageBox.Show(DateTime.Now.ToString(), "TIME");
 
         private void TellTime()
             => MessageBox.Show(DateTime.Now.ToLongDateString(), "TIME");
